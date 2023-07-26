@@ -1,0 +1,2 @@
+# Bir_sayi_dizisindeki_tekrar_eden_cift_sayilari_belirten_bir_program
+Bir_sayi_dizisindeki_tekrar_eden_cift_sayilari_belirten_bir_program
